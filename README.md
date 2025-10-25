@@ -1,2 +1,3 @@
-# codexintern-project
-"A beginner-level data analysis project completed for the CODEXINTERN program (Slab 1). Focuses on loading, cleaning, calculating statistics, and visualizing the classic Iris dataset using Python's Pandas, Matplotlib, and Seaborn libraries."
+Data Analysis and Visualization: Load a CSV using Pandas, calculate descriptive statistics (e.g., column average), and use Matplotlib to create visualizations like bar charts, scatter plots, and heatmaps to derive insights.
+Linear Regression Model: Develop a model to predict house prices based on features like rooms and location. This involves collecting a dataset from Kaggle, preprocessing it, and training the model.
+Matrix OperationsTool: Build an application with NumPy that allows users to input matrices and perform operations such as addition, subtraction, multiplication, transpose, and determinant calculation, displaying results interactively.
